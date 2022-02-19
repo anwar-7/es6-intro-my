@@ -38,3 +38,14 @@ for (const number of numbers) {
   // console.log(number);
 }
 // console.log(number);
+
+// function
+function fullName(first, second) {
+  const name = first + ' ' + second;
+  return name;
+}
+const person = fullName('Anwarul', 'Islam');
+// console.log(person);
+
+// object
+const bottle = { color: 'yellow', contain: 'water', price: 50 };
