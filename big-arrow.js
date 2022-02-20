@@ -23,4 +23,4 @@ const doMath = (x, y) => {
 };
 
 const total = doMath(10, 12);
-console.log(total);
+console.log(name);
